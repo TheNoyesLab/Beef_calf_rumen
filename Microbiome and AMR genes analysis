@@ -6,7 +6,7 @@
 ####
 ###
 ##
-#
+##
 # 1.load git and test if it is working fine
 	module load git
 	git --version
